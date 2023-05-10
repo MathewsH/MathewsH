@@ -1,7 +1,7 @@
 ### Olá eu me chamo Mathews Henrique Costa 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathews-costa-63506120b/)
 
-![Mathews GitHub stats](https://github-readme-stats.vercel.app/api?username=twothews&show_icons=true&theme=onedark)
+![Mathews GitHub stats](https://github-readme-stats.vercel.app/api?username=MathewsH&show_icons=true&theme=onedark)
 
 ### Tecnologias que eu utilizo
 
@@ -16,5 +16,5 @@
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twothews&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewsH&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
